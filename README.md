@@ -1,3 +1,4 @@
+
 # Sorting Visualizer
 
 This project is a prototype for visualizing sorting algorithms.
@@ -16,3 +17,10 @@ Then select the type of sorting algorithm that you wish to visualize.
 A sort button appears and upon pressing it , you will be able to visualize the numbers getting sorted. 
 
 🌈 EASY 🌈
+
+## Contributing
+
+Contributions are always welcome!
+
+Please feel free to make a Pull Request.
+
